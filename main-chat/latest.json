@@ -1,7 +1,7 @@
 {
   "sceneId": "main",
-  "revision": 2,
-  "lastEventOffset": 2,
+  "revision": 10,
+  "lastEventOffset": 10,
   "messages": [
     {
       "id": "user-1774392816531",
@@ -21,10 +21,122 @@
           "thumbnailUrl": "https://raw.githubusercontent.com/renatgabitov/make-an-demo-video-of-our-202603250652/main/uploads/1774392771613-f60dd540/asset-1.png"
         }
       ]
+    },
+    {
+      "id": "assistant-status-1774392818309-wj0c5s",
+      "role": "assistant",
+      "content": "✨ Resolving scene context",
+      "timestamp": 1774392818309,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "generating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774392818571-d1512w",
+      "role": "assistant",
+      "content": "✨ Calling OpenAI generation",
+      "timestamp": 1774392818571,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "generating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774392818571-d272oh",
+      "role": "assistant",
+      "content": "✨ Planning scenes",
+      "timestamp": 1774392818571,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "planning",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774392818571-sko288",
+      "role": "assistant",
+      "content": "✨ Planning scenes...",
+      "timestamp": 1774392818571,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "generating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774392832089-fv0sol",
+      "role": "assistant",
+      "content": "✨ Generating scene 1/2...",
+      "timestamp": 1774392832089,
+      "metadata": {
+        "streamEvent": {
+          "type": "scene.start",
+          "phase": "generating",
+          "kind": "info",
+          "progress": {
+            "current": 1,
+            "total": 2
+          }
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774392832089-ri0daw",
+      "role": "assistant",
+      "content": "✨ Generating scene...",
+      "timestamp": 1774392832089,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "generating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774392832089-yhxsr5",
+      "role": "assistant",
+      "content": "✨ Generating scene 2/2...",
+      "timestamp": 1774392832089,
+      "metadata": {
+        "streamEvent": {
+          "type": "scene.start",
+          "phase": "generating",
+          "kind": "info",
+          "progress": {
+            "current": 2,
+            "total": 2
+          }
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774392832089-68ji7d",
+      "role": "assistant",
+      "content": "✨ Generating scene...",
+      "timestamp": 1774392832089,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "generating",
+          "kind": "info"
+        }
+      }
     }
   ],
   "appliedRequestIds": [
-    "https://github.com/renatgabitov/make-an-demo-video-of-our-202603250652.git::main:1774392817697:o40c2s"
+    "https://github.com/renatgabitov/make-an-demo-video-of-our-202603250652.git::main:1774392832698:521pgn"
   ],
-  "updatedAt": "2026-03-24T22:53:38.801Z"
+  "updatedAt": "2026-03-24T22:53:53.986Z"
 }
