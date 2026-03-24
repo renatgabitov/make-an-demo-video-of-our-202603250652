@@ -1,7 +1,7 @@
 {
   "sceneId": "main",
-  "revision": 10,
-  "lastEventOffset": 10,
+  "revision": 13,
+  "lastEventOffset": 13,
   "messages": [
     {
       "id": "user-1774392816531",
@@ -133,10 +133,49 @@
           "kind": "info"
         }
       }
+    },
+    {
+      "id": "assistant-status-1774392997142-80gwig",
+      "role": "assistant",
+      "content": "✨ Composing timeline",
+      "timestamp": 1774392997142,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "validating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774392997142-lzdn33",
+      "role": "assistant",
+      "content": "✨ Validating generated scenes...",
+      "timestamp": 1774392997142,
+      "metadata": {
+        "streamEvent": {
+          "type": "validation.result",
+          "phase": "validating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774392997142-8wpgdc",
+      "role": "assistant",
+      "content": "✨ Saving snapshot...",
+      "timestamp": 1774392997142,
+      "metadata": {
+        "streamEvent": {
+          "type": "persist.start",
+          "phase": "persisting",
+          "kind": "info"
+        }
+      }
     }
   ],
   "appliedRequestIds": [
-    "https://github.com/renatgabitov/make-an-demo-video-of-our-202603250652.git::main:1774392832698:521pgn"
+    "https://github.com/renatgabitov/make-an-demo-video-of-our-202603250652.git::main:1774392997554:havdst"
   ],
-  "updatedAt": "2026-03-24T22:53:53.986Z"
+  "updatedAt": "2026-03-24T22:56:40.044Z"
 }
